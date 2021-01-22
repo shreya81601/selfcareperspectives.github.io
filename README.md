@@ -4,6 +4,9 @@ Not enough time for self-care? Come visit our site to see myriad of self-care ti
 <b>PROJECT NAME</b><br>
 Self Care: Perspectives on How-To
 
+<b>LINK TO PROJECT</b>
+https://shreya81601.github.io/selfcareperspectives.github.io/
+
 <b>PROJECT DESCRIPTION</b>
 <p>These days, we often come across many people who are so busy with the n number of things in their life that they start neglecting themselves. Self-care is a priority and this is the message we wish to spread through our page. We want to encourage people to take out time for themselves and do whatever makes them feel good and happy. We emphasize on “normalizing” the ways to self-care because often self-care is misunderstood. People think self-care is just limited to eating healthy, exercising regularly, putting nail polish or makeup etc. But NO! Self-care is very broad and could mean very different things to different people. The most uncommon of the ways – particular to oneself – are often the best ways to self-care. Hence don’t be afraid to take care of yourself in ways you find to be most effective for you, even though they might seem “weird” to others.</p>
 <p>Often people say that they don’t not have enough “time” to self-care – a very common excuse. Hence, our website clearly gives user the choice to input the available time at hand and learn about the self-care tips they could engage in for that duration of time. The 3 steps of how-to are very simple and easy and aim to make self-care fun for the user so that they don’t make any excuses anymore! </p>
