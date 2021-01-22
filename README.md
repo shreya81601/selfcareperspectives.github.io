@@ -4,7 +4,7 @@ Not enough time for self-care? Come visit our site to see myriad of self-care ti
 <b>PROJECT NAME</b><br>
 Self Care: Perspectives on How-To
 
-<b>LINK TO PROJECT</b>
+<b>LINK TO PROJECT</b><br>
 https://shreya81601.github.io/selfcareperspectives.github.io/
 
 <b>PROJECT DESCRIPTION</b>
